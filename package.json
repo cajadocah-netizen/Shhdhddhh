@@ -1,7 +1,12 @@
 {
-  "name": "simulador-windows11",
+  "name": "windows11-simulator",
   "version": "1.0.0",
+  "description": "Servidor Node.js para o simulador do Windows 11",
   "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "express": "^4.19.2" }
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
